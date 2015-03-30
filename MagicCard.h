@@ -11,4 +11,20 @@
 
 #include <stdio.h>
 
+
+class MagicCard{
+    
+    
+public:
+    MagicCard();
+    ~MagicCard();
+    
+    
+    
+private:
+    
+};
+
+
+
 #endif /* defined(__MTG_Practice__MagicCard__) */

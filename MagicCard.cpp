@@ -7,3 +7,15 @@
 //
 
 #include "MagicCard.h"
+
+MagicCard::MagicCard()
+{
+    
+    
+}
+
+MagicCard::~MagicCard()
+{
+    
+    
+}
